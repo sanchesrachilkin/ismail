@@ -1,0 +1,112 @@
+.line1 {
+    border-top: 4px solid #15b799;
+}
+
+.line2 {
+    border-top: 4px solid #0082ad;
+}
+
+.line3 {
+    border-top: 4px solid #133a81;
+}
+
+.logo {
+    padding: 16.5px 0px;
+}
+
+header {
+	height: 119px;
+}
+
+.title {
+    font-family: "Open Sans";
+    font-weight: bold;
+    color: #0082ad;
+}
+
+.header__title {
+    font-size: 20px;
+    font-family: "Open Sans";
+    font-weight: lighter;
+    color: #25262a;
+    padding: 25px 0px 25px 145px;
+}
+
+.glyphicon {
+    color: #c2c2c2;
+    width: 17px;
+    height: 17px;
+}
+
+.header__contacts {
+	padding-top: 22.5px;
+}
+
+.header__contacts a.number {
+	letter-spacing: 0.7px;
+	font-family: "Open Sans";
+	font-weight: lighter;
+	color: #15b799;
+	font-size: 28px;
+	display: inline-block;
+}
+
+.large__numbers {
+	font-weight: bold;
+	letter-spacing: 0.7px;
+}
+
+a.email, a.email:hover {
+    color: #0082ad;
+    font-family: "Open Sans";
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+.navigation {
+	background-color: #ececec;
+	height: 50px;
+}
+
+.dropdown {
+	width: 350px;
+}
+
+.navigation .container .row {
+	text-align: center;
+}
+
+.nav-tabs>li>a {
+	border: none;
+	border-radius: none;
+}
+
+.nav-tabs>li>a:hover {
+	background-color: #007aa3;
+	color: #fff;
+}
+
+.nav-tabs .dropdown-menu {
+	background-color: #007aa3;
+}
+
+.nav-tabs>li>a {
+	margin-right: 0px;
+	border-radius: 0px;
+}
+
+.dropdown-menu>li>a {
+	width: 350px;
+	color: #fff;
+	font-family: "Open Sans";
+	font-size: 16px;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+	background-color: #007aa3;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+	background-color: #0082ad;
+	color: #fff;
+}
